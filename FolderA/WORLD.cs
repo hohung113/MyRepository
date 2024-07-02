@@ -9,6 +9,8 @@ public class Class1
 			"HELLO HUNG"
 				"HELLO FPT"
 				"HELLO VIET NAM"
+				"Hello nuoc nga"
+				"Hello nuoc my"
 		}
 	}
 }
