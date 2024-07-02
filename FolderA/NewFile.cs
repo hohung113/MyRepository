@@ -29,3 +29,4 @@ HELLO HELLO
     a
 
     GIT TEST
+    GIT3 TEST
