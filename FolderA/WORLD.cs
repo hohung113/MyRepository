@@ -14,6 +14,9 @@ public class Class1
 				"DAY LA NHANH MOI NHAT"
 				"SU HIEN DIEN CUA CHUNG CON"
 				"NE COMMIT MOI"
+				"ádasdsa"
+
+
 		}
 	}
 }
