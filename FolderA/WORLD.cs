@@ -16,7 +16,10 @@ public class Class1
 				HELLO
 				HELLO NEW COMMIT
 				NEW COMMIT 
-				NEW COMMIT2
-		}
+				NEW COMMIT
+
+                Console.WriteLine("This is the third branch")
+
+        }
 	}
 }
