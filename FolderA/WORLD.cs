@@ -11,12 +11,11 @@ public class Class1
 				"HELLO VIET NAM"
 				"Hello nuoc nga"
 				"Hello nuoc my"
-				"DAY LA NHANH MOI NHAT"
-				"SU HIEN DIEN CUA CHUNG CON"
-				"NE COMMIT MOI"
-				"ádasdsa"
 
 
+				HELLO HELLO
+				HELLO
+				HELLO NEW COMMIT
 		}
 	}
 }
