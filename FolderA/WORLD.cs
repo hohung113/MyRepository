@@ -16,6 +16,7 @@ public class Class1
 				HELLO HELLO
 				HELLO
 				HELLO NEW COMMIT
+				"INTO DEVELOP"
 		}
 	}
 }
