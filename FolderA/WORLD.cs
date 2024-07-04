@@ -11,6 +11,11 @@ public class Class1
 				"HELLO VIET NAM"
 				"Hello nuoc nga"
 				"Hello nuoc my"
+
+
+				HELLO HELLO
+				HELLO
+				HELLO NEW COMMIT
 		}
 	}
 }
