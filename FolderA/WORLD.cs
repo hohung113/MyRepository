@@ -12,10 +12,11 @@ public class Class1
 				"Hello nuoc nga"
 				"Hello nuoc my"
 
-
 				HELLO HELLO
 				HELLO
 				HELLO NEW COMMIT
+				NEW COMMIT 
+				NEW COMMIT2
 		}
 	}
 }
